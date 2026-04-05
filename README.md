@@ -1,16 +1,38 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Pranjal Navlani  
 
-<!--
-**navlanipranjal631-tech/navlanipranjal631-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc student in Bioinformatics, Statistics, and Computer Science  
+📊 Interested in Data Analytics and problem-solving  
+💡 Exploring technology through learning and hackathons  
 
-Here are some ideas to get you started:
+🌱 Currently learning programming and analytical skills  
+🚀 Goal: To grow as a developer and build impactful solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Interested in hackathons and collaborative projects  
+
+
+## 🌐 Socials:
+[LinkedIn](https://linkedin.com/in/Pranjal Navlani)  
+Email: navlanipranjal631@gmail.com  
+
+
+# 💻 Tech Stack:
+- Python (learning)
+- Basic Programming Concepts  
+
+# 🚀 Projects:
+## 🌱 Smart Agriculture App (Hackathon Project)
+- Developed during a National Level Hackathon  
+- Focused on solving real-world agricultural problems  
+- Built as a team project under time constraints  
+- Currently improving and refining the application  
+
+# 📜 Certifications:
+- Data Structures and Algorithms – Infosys Springboard  
+- AI Tools & ChatGPT Workshop  
+- National Level Hackathon Participation Certificate  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=navlanipranjal631-tech&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=navlanipranjal631-tech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navlanipranjal631-tech&theme=dark&hide_border=false&layout=compact)
