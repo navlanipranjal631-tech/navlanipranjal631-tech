@@ -12,7 +12,7 @@ Hi 👋, I'm Pranjal Navlani
 
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Pranjal Navlani)  
+[LinkedIn]www.linkedin.com/in/pranjal-n-17685236b
 Email: navlanipranjal631@gmail.com  
 
 
